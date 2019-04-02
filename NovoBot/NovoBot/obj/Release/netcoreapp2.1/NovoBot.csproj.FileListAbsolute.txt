@@ -1,0 +1,16 @@
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\bin\Release\netcoreapp2.1\NovoBot.bot
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\bin\Release\netcoreapp2.1\NovoBot.deps.json
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\bin\Release\netcoreapp2.1\NovoBot.runtimeconfig.json
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\bin\Release\netcoreapp2.1\NovoBot.runtimeconfig.dev.json
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\bin\Release\netcoreapp2.1\NovoBot.dll
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\bin\Release\netcoreapp2.1\NovoBot.pdb
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.csprojAssemblyReference.cache
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.csproj.CoreCompileInputs.cache
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.RazorAssemblyInfo.cache
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.RazorAssemblyInfo.cs
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.AssemblyInfoInputs.cache
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.AssemblyInfo.cs
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.RazorTargetAssemblyInfo.cache
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.dll
+C:\Users\ulysses\source\repos\NovoBot\NovoBot\obj\Release\netcoreapp2.1\NovoBot.pdb

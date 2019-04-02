@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovoBot", "NovoBot\NovoBot.csproj", "{FB94A53F-CAFA-4A52-8A05-A656DD7C32DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB94A53F-CAFA-4A52-8A05-A656DD7C32DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB94A53F-CAFA-4A52-8A05-A656DD7C32DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB94A53F-CAFA-4A52-8A05-A656DD7C32DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB94A53F-CAFA-4A52-8A05-A656DD7C32DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EBAF7A6-A629-4F52-B9A5-F5FC87BB3D43}
+	EndGlobalSection
+EndGlobal
